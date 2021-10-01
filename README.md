@@ -11,3 +11,5 @@ Selenium Web Otomasyon
 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırılır.
 - Adet arttırılarak ürün adedinin 2 olduğu doğrulanır.
 - Ürün sepetten silinerek sepetin boş olduğu kontrol edilir.
+
+Not: Email ve şifre değişkenleri kod üstünden ayarlandığı takdirde otomasyon işlevsel hale gelecektir.
