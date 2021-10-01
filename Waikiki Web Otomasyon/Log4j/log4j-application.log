@@ -1,0 +1,14 @@
+2021-10-01 21:04:45 INFO  Log4j:7 - Test is starting...
+2021-10-01 21:04:54 INFO  Log4j:15 - Giriş yapıldı.
+2021-10-01 21:05:04 INFO  Log4j:15 - Ürün sepete eklendi.
+2021-10-01 21:05:04 INFO  Log4j:15 - Ürün fiyatı ile sepetteki fiyat aynı
+2021-10-01 21:05:05 INFO  Log4j:15 - Ürün adedi 2
+2021-10-01 21:05:08 INFO  Log4j:15 - Sepet boş
+2021-10-01 21:05:08 INFO  Log4j:11 - Test is ending...
+2021-10-01 21:05:57 INFO  Log4j:7 - Test başladı
+2021-10-01 21:06:05 INFO  Log4j:15 - Giriş yapıldı.
+2021-10-01 21:06:14 INFO  Log4j:15 - Ürün sepete eklendi.
+2021-10-01 21:06:14 INFO  Log4j:15 - Ürün fiyatı ile sepetteki fiyat aynı
+2021-10-01 21:06:14 INFO  Log4j:15 - Ürün adedi 2
+2021-10-01 21:06:17 INFO  Log4j:15 - Sepet boş
+2021-10-01 21:06:18 INFO  Log4j:11 - Test bitti
