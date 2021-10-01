@@ -15,8 +15,8 @@ import java.util.concurrent.TimeUnit;
 public class Test2 {
     public static WebDriver driver;
     public static String url;
-    public static String email = "safakyil96@hotmail.com";
-    public static String password = "safak9696";
+    public static String email = "email";
+    public static String password = "sifre";
     public static WebElements webElements;
     @Before
     public void setupDriver(){
